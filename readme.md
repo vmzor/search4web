@@ -1,3 +1,2 @@
-#Git and Github course
+#New ReadMe
 
-Crash course for Git
